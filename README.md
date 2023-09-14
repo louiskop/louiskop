@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis de Jager</h1>
-<h3 align="center">I Started exploring code from age 16 and am currently studying computer science at Stellenbosch University, South Africa. Looking to get the best of both formal and self-taught worlds</h3>
+<h3 align="center">I Started exploring code at age 16 and am currently studying computer science at Stellenbosch University, South Africa. Looking to get the best of both formal and self-taught worlds</h3>
 <img align="right" alt="Coding" width=400 src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55.gif?h=1f11087ec688ad944871296a823a630d">
 
 
