@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN stack project with flutter app!**
 
-- 🌱 I’m currently learning **Agile and Spring Java framework**
+- 🌱 I’m currently learning **Spring Java framework & Functional Programming (Rust, Haskell)**
 
 - 👨‍🎓 Stellenbosch University: **Bsc: Computer Science III**
 
