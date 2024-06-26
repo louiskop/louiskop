@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width=400 src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55.gif?h=1f11087ec688ad944871296a823a630d">
 
 
-- 🔭 I’m currently working on **MERN stack project with flutter app!**
+- 🔭 I’m currently working on **Coding a Language Server From Scratch!**
 
-- 🌱 I’m currently learning **Spring Java framework & Functional Programming (Rust, Haskell)**
+- 🌱 I’m currently learning **Rust Programming Language**
 
-- 👨‍🎓 Stellenbosch University: **Bsc: Computer Science III**
+- 👨‍🎓 Stellenbosch University: **BHons: Computer Science**
 
 - 👨‍💻 Portfolio [louiskop.github.io](https://louiskop.github.io/)
 
